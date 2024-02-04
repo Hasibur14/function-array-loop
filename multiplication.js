@@ -17,4 +17,4 @@
     return totalBookPrice; 
   }
   const book = bookQuantity(2 , 3, 1);
-  console.log("All Book Price: ",book);
+  console.log("All Book Price: ",book); 
